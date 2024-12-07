@@ -1,0 +1,46 @@
+# General CMake build artifacts
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Ninja build artifacts
+/build.ninja
+/.ninja_deps
+/.ninja_log
+
+# Compile commands (if generated)
+/compile_commands.json
+
+# Build directories
+/build/
+/Debug/
+/Release/
+/Dist/
+
+# Visual Studio specific
+/*.VC.db
+/*.VC.opendb
+/.vs/
+
+# macOS specific files
+.DS_Store
+
+# Linux specific
+*.so
+*.a
+*.o
+
+# Windows specific
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE specific
+.idea/
+.vscode/
